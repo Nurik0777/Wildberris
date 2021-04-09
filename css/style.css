@@ -1264,13 +1264,13 @@ body{
         margin-top: 30px;
     }
 }
-@media (max-width:824px){
+@media (max-width:598px){
     .block10_logo{
-        margin: 0 20px;
+        width: 15%;
     }
 }
-@media (max-width:600px){
-    .block10_conteiner1{
-        width: 100%;
+@media (max-width:490px){
+    .block10_logo{
+        width: 25%;
     }
 }
